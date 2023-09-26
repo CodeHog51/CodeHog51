@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS and JavaScript. 
 - 🌱 I’m currently learning HTML
 - 💞️ I’m looking to collaborate on HTML projects
-- 📫 How to reach me fine me on Discord codegeek51
+- 📫 How to reach me find me on Discord codegeek51
 
 <!---
 CodeHog51/CodeHog51 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
